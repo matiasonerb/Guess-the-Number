@@ -1,2 +1,2 @@
-# Adivinhe-o-N-mero
+# Adivinhe-o-Numero
 . . . Teste de Python . . .
